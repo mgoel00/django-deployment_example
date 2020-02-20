@@ -26,7 +26,7 @@ SECRET_KEY = '*h1f#*juczmtg&7wa3hex!3u5qo%wp0j(-e352n=n5zj+t4p93'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mayankg2000.pythonanywhere.com',]
 
 
 # Application definition
